@@ -6,6 +6,8 @@ Created on Mon May  3 15:37:40 2021
 @author: juanmalagon
 """
 
+# References https://solclover.com/
+
 from sklearn.cluster import AgglomerativeClustering # For HAC clustering
 import scipy.cluster.hierarchy as sch # For HAC Denddrogram
 
